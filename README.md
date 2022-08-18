@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/><br/>
+<br/>
 <h3>--------------------------------------------------------------------------</h3>
 <h3>About Me</h3>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -💻 I'm currently learning <strong>Frontend developng</strong> (React,Svelte)<br/>
 -⚾ I'm a big fan of Baseball <strong>Samsung Lions(kbo) / Sandiego Padres (MLB)</strong><br/>
 
-<br/><br/>
+<br/>
 <h3>--------------------------------------------------------------------------</h3>
 <h3>Github Status</h3>
 
