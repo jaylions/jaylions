@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--📚 I'm currently studying Chemistry Education & Computer Science Engineering at SNU (20.3~)
--💻 I'm currently learning Frontend developng (React,Svelte)
--⚾ I'm a big fan of Baseball Samsung Lions(kbo) / Sandiego Padres (MLB)
+-📚 I'm currently studying Chemistry Education & Computer Science Engineering at SNU (20.3~)<br/>
+-💻 I'm currently learning Frontend developng (React,Svelte)<br/>
+-⚾ I'm a big fan of Baseball Samsung Lions(kbo) / Sandiego Padres (MLB)<br/>
+
+
+
+
+
+
+<h3>Github Status</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
