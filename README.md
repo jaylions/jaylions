@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3>--------------------------------------------------------------------------</h3>
 <h3>About Me</h3>
 
--📚 I'm currently studying Chemistry Education & Computer Science Engineering at SNU (20.3~)<br/>
--💻 I'm currently learning Frontend developng (React,Svelte)<br/>
--⚾ I'm a big fan of Baseball Samsung Lions(kbo) / Sandiego Padres (MLB)<br/>
+-📚 I'm currently studying <strong>Chemistry Education & Computer Science Engineering</strong> at SNU (20.3~)<br/>
+-💻 I'm currently learning <strong>Frontend developng</strong> (React,Svelte)<br/>
+-⚾ I'm a big fan of Baseball <strong>Samsung Lions(kbo) / Sandiego Padres (MLB)</strong><br/>
 
 <br/><br/>
 <h3>--------------------------------------------------------------------------</h3>
