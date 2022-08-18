@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jaeyoung Kwon
 
 <!--
 **jaylions/jaylions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-📚 I'm currently studying Chemistry Education & Computer Science Engineering at SNU (20.3~)
+-💻 I'm currently learning Frontend developng (React,Svelte)
+-⚾ I'm a big fan of Baseball Samsung Lions(kbo) / Sandiego Padres (MLB)
+
+[jaylions's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
