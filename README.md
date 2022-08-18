@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 
 -📚 I'm currently studying <strong>Chemistry Education & Computer Science Engineering</strong> at SNU (20.3~)<br/>
 -💻 I'm currently learning <strong>Frontend developng</strong> (React,Svelte)<br/>
--⚾ I'm a big fan of Baseball <strong>Samsung Lions(kbo) / Sandiego Padres (MLB)</strong><br/>
-
+-⚾ I'm a big fan of Baseball <strong>Samsung Lions(kbo) / Sandiego Padres (MLB)</strong>
+<br></br>
+<br></br>
 # 💻 Developing Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
-
+<br></br>
+<br></br>
 # 😊 PS study
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaylions)](https://solved.ac/jaylions/)
