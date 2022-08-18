@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/><br/>
+<h3>--------------------------------------------------------------------------</h3>
+<h3>About Me</h3>
 
 -📚 I'm currently studying Chemistry Education & Computer Science Engineering at SNU (20.3~)<br/>
 -💻 I'm currently learning Frontend developng (React,Svelte)<br/>
