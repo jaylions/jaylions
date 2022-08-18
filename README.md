@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-##About Me
+
+# ❓ About Me
 
 -📚 I'm currently studying <strong>Chemistry Education & Computer Science Engineering</strong> at SNU (20.3~)<br/>
 -💻 I'm currently learning <strong>Frontend developng</strong> (React,Svelte)<br/>
 -⚾ I'm a big fan of Baseball <strong>Samsung Lions(kbo) / Sandiego Padres (MLB)</strong><br/>
 
-##Github Status
+# Github Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
