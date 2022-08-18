@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 -💻 I'm currently learning <strong>Frontend developng</strong> (React,Svelte)<br/>
 -⚾ I'm a big fan of Baseball <strong>Samsung Lions(kbo) / Sandiego Padres (MLB)</strong><br/>
 
-# Github Status
+# 💻 Developing Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
+
+# 😊 PS study
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaylions)](https://solved.ac/jaylions/)
+
