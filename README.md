@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 -💻 I'm currently learning Frontend developng (React,Svelte)<br/>
 -⚾ I'm a big fan of Baseball Samsung Lions(kbo) / Sandiego Padres (MLB)<br/>
 
-
-
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 <h3>Github Status</h3>
 
 
