@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 -⚾ I'm a big fan of Baseball Samsung Lions(kbo) / Sandiego Padres (MLB)<br/>
 
 <br/><br/>
-<br/><br/>
-<br/><br/>
+<h3>--------------------------------------------------------------------------</h3>
 <h3>Github Status</h3>
 
 
