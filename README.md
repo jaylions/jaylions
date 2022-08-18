@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 -💻 I'm currently learning Frontend developng (React,Svelte)
 -⚾ I'm a big fan of Baseball Samsung Lions(kbo) / Sandiego Padres (MLB)
 
-[jaylions's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
