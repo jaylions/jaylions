@@ -28,7 +28,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
 <br></br>
 <br></br>
-# 😊 PS study
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaylions)](https://solved.ac/jaylions/)
 
