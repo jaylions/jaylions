@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # ❓ About Me
 
 -📚 I'm currently studying <strong>Chemistry Education & Computer Science Engineering</strong> at SNU (20.3~)<br/>
--💻 I'm currently learning <strong>Frontend developng</strong> (React,Svelte)<br/>
+-💻 I'm currently learning <strong>Frontend Backend developng</strong> React,Springboot <br/>
 -⚾ I'm a big fan of Baseball <strong>Samsung Lions(kbo) / Sandiego Padres (MLB)</strong>
 <br></br>
 <br></br>
