@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jaeyoung Kwon
+
 
 <!--
 **jaylions/jaylions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-# ❓ About Me
+
+
+<br></br>
 
 <br></br>
 <br></br>
-# 💻 Developing Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylions&show_icons=true&theme=radical)
-<br></br>
-<br></br>
 
-#when i could not commit....
