@@ -20,14 +20,3 @@
 ### 📫 Connect with Me
 * **Email**: jaylions@snu.ac.kr
 * **Website**: [jaykwon.me](https://jaykwon.me)
-
-<br/>
-
-
-
-<br></br>
-
-<br></br>
-<br></br>
-
-
