@@ -1,17 +1,5 @@
 
 
-<!--
-**jaylions/jaylions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# JAEYOUNG KWON
-
 👋 **About Me**
 * **Seoul National University**: B.S. in Chemistry Education & Computer Science Engineering (Double Major)
 * Focused on Human-AI Interaction, Machine Learning Systems, and Education Technology.
@@ -32,9 +20,7 @@ Here are some ideas to get you started:
 ### 📫 Connect with Me
 * **Email**: jaylions@snu.ac.kr
 * **Website**: [jaykwon.me](https://jaykwon.me)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 <br/>
 
 
