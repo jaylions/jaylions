@@ -2,7 +2,7 @@
 
 👋 **About Me**
 * **Seoul National University**: B.S. in Chemistry Education & Computer Science Engineering (Double Major)
-* Focused on Human-AI Interaction, Machine Learning Systems, and Education Technology.
+* Focused on Human-AI Interaction, AR/VR and Education Technology.
 
 ---
 
