@@ -19,4 +19,4 @@
 
 ### 📫 Connect with Me
 * **Email**: jaylions@snu.ac.kr
-* **Website**: [jaykwon.me](https://jaykwon.me)
+* **Website**: [jaylions.github.io](https://jaylions.github.io)
